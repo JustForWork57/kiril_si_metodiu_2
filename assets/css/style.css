@@ -1827,9 +1827,6 @@ button:focus {
 	.contact .contact__item:last-child {
 		display: block;
 	}
-	.contact .item__facebook {
-		margin-left: calc(100vw / 2 - 169px);
-	}
 }
 @media (max-width: 350px){
 	.contact .item__facebook {
